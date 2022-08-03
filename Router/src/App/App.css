@@ -1,0 +1,12 @@
+body{
+  background-color: rgba(181, 237, 247, 0.719);
+}
+.wrapper {
+  padding: 20px;
+}
+li{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
